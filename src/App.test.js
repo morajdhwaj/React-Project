@@ -9,8 +9,7 @@ const App = () => {
   <div>
    <Nav/>
    <Sidenav/>
-     !234
-
+     
 
   </div>
  )
